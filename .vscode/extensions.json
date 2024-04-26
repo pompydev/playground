@@ -4,6 +4,7 @@
     "ms-python.black-formatter",
     "ms-vscode.cpptools",
     "13xforever.language-x86-64-assembly",
-    "skellock.just"
+    "skellock.just",
+    "james-yu.latex-workshop"
   ]
 }

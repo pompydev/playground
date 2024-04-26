@@ -27,9 +27,7 @@
   "[c]": {
     "editor.defaultFormatter": "ms-vscode.cpptools"
   },
-  "files.associations": {
-    "*.ejs": "html",
-    "ostream": "cpp",
-    "format": "cpp"
+  "[latex]": {
+    "editor.defaultFormatter": "James-Yu.latex-workshop"
   }
 }
