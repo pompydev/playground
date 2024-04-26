@@ -21,6 +21,7 @@ Setup the following:
 - [clang](https://clang.llvm.org)
 - [GCC](https://gcc.gnu.org)
 - [yasm](https://yasm.tortall.net)
+- [texlive](https://tug.org/texlive)
 
 You can check other dev tools I use and more over [here](https://github.com/developomp/pompup).
 

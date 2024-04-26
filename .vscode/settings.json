@@ -3,7 +3,15 @@
   "editor.formatOnSave": true,
   "editor.formatOnType": true,
 
-  "cSpell.words": ["developomp", "fstat", "nums", "rustup", "substr", "yasm"],
+  "cSpell.words": [
+    "developomp",
+    "fstat",
+    "nums",
+    "rustup",
+    "substr",
+    "texlive",
+    "yasm"
+  ],
   "dotnet.preferCSharpExtension": true,
 
   "[json]": {
