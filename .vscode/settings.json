@@ -6,9 +6,6 @@
   "cSpell.words": ["developomp", "fstat", "nums", "rustup", "substr", "yasm"],
   "dotnet.preferCSharpExtension": true,
 
-  "[python]": {
-    "editor.defaultFormatter": "ms-python.black-formatter"
-  },
   "[json]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
@@ -18,14 +15,26 @@
   "[markdown]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
+  "[c]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools"
+  },
+  "[cpp]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools"
+  },
+  "[go]": {
+    "editor.defaultFormatter": "golang.go"
+  },
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "[typescript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "[c]": {
-    "editor.defaultFormatter": "ms-vscode.cpptools"
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  },
+  "[rust]": {
+    "editor.defaultFormatter": "rust-lang.rust-analyzer"
   },
   "[latex]": {
     "editor.defaultFormatter": "James-Yu.latex-workshop"

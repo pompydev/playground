@@ -5,6 +5,7 @@
     "ms-vscode.cpptools",
     "13xforever.language-x86-64-assembly",
     "skellock.just",
-    "james-yu.latex-workshop"
+    "james-yu.latex-workshop",
+    "golang.go"
   ]
 }
