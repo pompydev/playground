@@ -6,3 +6,6 @@
 
 @bench-go: build-go
     hyperfine './go/a < ./input.txt'
+
+@go-bench:
+    cd go && go test -bench=.
