@@ -13,6 +13,7 @@
     "yasm"
   ],
   "dotnet.preferCSharpExtension": true,
+  "rust-analyzer.check.command": "clippy",
 
   "[json]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"

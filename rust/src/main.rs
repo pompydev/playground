@@ -17,7 +17,7 @@ fn main() {
 
     // parse string
     let nums: Vec<usize> = s
-        .split(" ")
+        .split(' ')
         .map(|substr| substr.parse().expect("Failed to convert &str to usize"))
         .collect();
 
@@ -25,7 +25,7 @@ fn main() {
     writer
         .write_fmt(format_args!(
             "{} = {}\n",
-            s.replace(" ", " + "),
+            s.replace(' ', " + "),
             nums.iter().sum::<usize>()
         ))
         .expect("Failed to write to stdout");
