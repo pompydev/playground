@@ -12,39 +12,48 @@
     "texlive",
     "yasm"
   ],
-  "dotnet.preferCSharpExtension": true,
-  "rust-analyzer.check.command": "clippy",
 
   "[json]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
+
   "[jsonc]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
+
   "[markdown]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
+
   "[c]": {
     "editor.defaultFormatter": "ms-vscode.cpptools"
   },
+
   "[cpp]": {
     "editor.defaultFormatter": "ms-vscode.cpptools"
   },
+
   "[go]": {
     "editor.defaultFormatter": "golang.go"
   },
+
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
+
   "[typescript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
+
   "[python]": {
     "editor.defaultFormatter": "ms-python.black-formatter"
   },
+
   "[rust]": {
     "editor.defaultFormatter": "rust-lang.rust-analyzer"
   },
+  "rust-analyzer.check.command": "clippy",
+
   "[latex]": {
     "editor.defaultFormatter": "James-Yu.latex-workshop"
   }
