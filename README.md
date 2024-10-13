@@ -6,6 +6,10 @@ This is my coding playground for...
 - solving algorithm problems
 - playing with new tech without having to create and configure a new project
 
+## Sister projects
+
+- [fe-dojo](https://github.com/developomp/fe-dojo)
+
 ## Setting up
 
 - Install the following:
