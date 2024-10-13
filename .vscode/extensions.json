@@ -1,8 +1,12 @@
 {
   "recommendations": [
     // general
+    "mkhl.direnv",
     "skellock.just",
     "usernamehw.errorlens",
+
+    // nix
+    "jnoortheen.nix-ide",
 
     // js
     "esbenp.prettier-vscode",
