@@ -20,7 +20,6 @@
     "golang.go",
 
     // python
-    "ms-python.black-formatter",
     "charliermarsh.ruff",
 
     // rust

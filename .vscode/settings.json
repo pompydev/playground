@@ -44,8 +44,9 @@
   },
 
   "[python]": {
-    "editor.defaultFormatter": "ms-python.black-formatter"
+    "editor.defaultFormatter": "charliermarsh.ruff"
   },
+  "ruff.configuration": "./py/ruff.toml",
 
   "[rust]": {
     "editor.defaultFormatter": "rust-lang.rust-analyzer"
