@@ -2,8 +2,9 @@
   "recommendations": [
     // general
     "mkhl.direnv",
-    "skellock.just",
+    "nefrob.vscode-just-syntax",
     "usernamehw.errorlens",
+    "fill-labs.dependi",
 
     // nix
     "jnoortheen.nix-ide",
@@ -29,7 +30,6 @@
     // rust
     "vadimcn.vscode-lldb",
     "rust-lang.rust-analyzer",
-    "tamasfe.even-better-toml",
-    "serayuzgur.crates"
+    "tamasfe.even-better-toml"
   ]
 }
