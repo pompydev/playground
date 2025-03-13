@@ -6,10 +6,15 @@
     "devenv",
     "direnv",
     "fstat",
+    "nixd",
+    "nixos",
+    "nixpkgs",
     "nums",
+    "pkgs",
     "rustup",
     "substr",
     "texlive",
+    "venv",
     "yasm"
   ],
 
