@@ -2,11 +2,13 @@
   "editor.formatOnSave": true,
 
   "cSpell.words": [
+    "cplusplus",
     "developomp",
     "devenv",
     "direnv",
     "fstat",
     "nixd",
+    "nixfmt",
     "nixos",
     "nixpkgs",
     "nums",
