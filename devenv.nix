@@ -26,7 +26,6 @@
   # https://devenv.sh/supported-languages/javascript
   languages.javascript = {
     enable = true;
-    directory = "./js";
 
     pnpm.enable = true;
     bun.enable = true;
