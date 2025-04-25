@@ -26,6 +26,7 @@
   # https://devenv.sh/supported-languages/javascript
   languages.javascript = {
     enable = true;
+    package = pkgs.nodejs_22; # Latest LTS. See https://nodejs.org/en/about/previous-releases
 
     pnpm.enable = true;
     bun.enable = true;
