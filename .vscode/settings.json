@@ -1,5 +1,12 @@
 {
   "editor.formatOnSave": true,
+  "search.exclude": {
+    "**/.git": true,
+    "**/.devenv": true,
+    "**/.direnv": true,
+    "**/node_modules": true,
+    "**.lock": true
+  },
 
   "cSpell.words": [
     "cplusplus",
